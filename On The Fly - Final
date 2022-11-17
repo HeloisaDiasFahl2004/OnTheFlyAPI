@@ -1,0 +1,13 @@
+Projeto final do estágio. 
+
+
+Proposta:
+
+ - Realizar o controle de venda de passagens de um aeroporto.
+ - Utilizar API, MVC.
+ 
+Sobre o Projeto:
+ - Criamos classe passageiro, aeronave, aeroporto, venda, endereço, voo e companhia aérea. 
+ - Fizemos consumos de APIs (já existentes ex: viaCep, e criadas por nós ex: Aeronave consumindo Companhia aéra).
+ - As classes possuem tais funcionalidades: Inserir(POST), Vizualizar(GET), Atualizar(UPDATE), Deletar(DELETE).
+ - Ao realizar a deleção, o dado deletado é movido para uma lixeira (objetivo: para um projeto posterior, fazer um resgate desse cadastro).
